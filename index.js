@@ -1,1 +1,1 @@
-console.error("Hello, World!");
+console.warn("Hello, GitHub!");
